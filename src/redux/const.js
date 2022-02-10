@@ -1,0 +1,2 @@
+export const ADD_GIPHY = "ADD_GIPHY"
+export const TOGGLE_LOADING = "TOGGLE_LOADING"
